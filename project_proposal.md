@@ -24,4 +24,4 @@ Increase use technological equipment in a growing population has had a greater i
 
 ## Sketch
 
-<img src="projectProposalAgr935.jpg" alt="projectProposalAgr935_image" width="500"/>
+<img src="projectProposalAgr935.png" alt="projectProposalAgr935_image" width="500"/>

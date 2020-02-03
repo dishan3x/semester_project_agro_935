@@ -3,9 +3,11 @@ Project Proposal
 # Crop detection in real time using Microcomputer 
 
 
+
+
 ## Objective
 
-Identify different crops in the ground by using a deep learning model via microcomputer
+Identify different crops in the field by using a deep learning model via microcomputer.
 
 
 ## Outcome
@@ -24,4 +26,4 @@ Increase use technological equipment in a growing population has had a greater i
 
 ## Sketch
 
-<img src="projectProposalAgr935.jpg" alt="projectProposalAgr935_image" width="500"/>
+<img src="projectProposalAgr935.png" alt="projectProposalAgr935_image" width="500"/>

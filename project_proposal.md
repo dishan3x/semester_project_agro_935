@@ -3,9 +3,11 @@ Project Proposal
 # Crop detection in real time using Microcomputer 
 
 
+
+
 ## Objective
 
-Identify different crops in the ground by using a deep learning model via microcomputer
+Identify different crops in the field by using a deep learning model via microcomputer.
 
 
 ## Outcome
